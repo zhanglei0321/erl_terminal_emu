@@ -1,7 +1,7 @@
 %%
-%%Copyright (c) 2014 streestone.cn and chunbai.com
+%%Copyright (c) 2014 threestone.cn and chunbai.com
 %%
-%%www.streestone.cn 
+%%www.threestone.cn 
 %%www.chunbai.com
 %%email:zhanglei0321@gmail.com
 
